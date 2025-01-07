@@ -1,1 +1,1 @@
-# Supporting-Human-Decision-Making-using-Retrieval-Augmented-Generation
+# Supporting Human Decision Making using Retrieval Augmented Generation
